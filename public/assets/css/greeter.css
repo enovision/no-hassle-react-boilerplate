@@ -1,0 +1,8 @@
+.root {
+  padding: 10px;
+}
+
+.horizontalRed {
+  color: #ff0000 !important;
+  border-top: 1px solid #ff0000;
+}
