@@ -2,6 +2,10 @@
   "name": "no-hassle-react-boilerplate",
   "version": "0.0.1",
   "description": "React Boilerplate that is easy to install with a lot of features",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enovision/no-hassle-react-boilerplate.git"
+  },
   "main": "index.js",
   "dependencies": {
     "babel-polyfill": "^6.23.0",
